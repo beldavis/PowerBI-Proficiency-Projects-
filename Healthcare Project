@@ -1,0 +1,10 @@
+🚀 Excited to share my recent healthcare project where I leveraged Power BI to analyze and visualize data on admitted patients. The project focused on key aspects such as patient demographics, admission details, and overall patient outcomes.
+
+🔍 To achieve this, I used Power Query for data cleaning and transformation, employing M language to ensure the data was ready for analysis. I also utilized DAX within Power Pivot to create calculated measures and columns, enhancing the report's analytical depth.
+
+📊 The dataset I worked with included various data types like dates, booleans, strings, and integers, ensuring a comprehensive analysis. Key columns in the report include Patient ID, Gender, Age, SAT Score, and Name.
+
+
+For those interested, the dataset used for this project can be accessed here: [Hospital ER Dataset](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv).
+
+#HealthcareAnalytics #PowerBI #DAX #DataVisualization #MQuery #PatientOutcomes
